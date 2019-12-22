@@ -1,18 +1,3 @@
-.github-profile {
-  margin: 1rem;
-  img {
-    width: 75px;
-  }
-  .info {
-    display: inline-block;
-    margin-left: 12px;
-    .name {
-      font-size: 1.25rem;
-      font-weight: bold;
-    }
-  }
-}
-
 form {
   border: thin solid #ddd;
   background-color: #fbfbfb;
@@ -20,10 +5,4 @@ form {
   margin-bottom: 2rem;
   display: flex;
   justify-content: center;
-}
-
-.header {
-  text-align: center;
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
 }
